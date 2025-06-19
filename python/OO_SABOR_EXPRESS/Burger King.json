@@ -1,0 +1,1332 @@
+[
+    {
+        "item": "Whopper\u00ae Sandwich",
+        "price": 46.35,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Whopper\u00ae Sandwich with Cheese",
+        "price": 37.47,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Bacon & Cheese Whopper\u00ae Sandwich",
+        "price": 49.44,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double Whopper\u00ae Sandwich",
+        "price": 57.83,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double Whopper\u00ae Sandwich with Cheese",
+        "price": 37.02,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Triple Whopper\u00ae Sandwich",
+        "price": 55.49,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Triple Whopper\u00ae Sandwich with Cheese",
+        "price": 49.59,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Whopper JR.\u00ae Sandwich",
+        "price": 38.31,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Bacon King Sandwich",
+        "price": 54.55,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Cheddar Bacon King Sandwich",
+        "price": 38.25,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Single Quarter Pound King Sandwich",
+        "price": 45.5,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double Quarter Pound King Sandwich",
+        "price": 49.21,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Single Stacker King",
+        "price": 33.35,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double Stacker King",
+        "price": 40.17,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "IMPOSSIBLE Whopper\u00ae Sandwich",
+        "price": 33.04,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hamburger",
+        "price": 43.63,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Cheeseburger",
+        "price": 51.52,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double Hamburger",
+        "price": 37.16,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double Cheeseburger",
+        "price": 39.28,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Extra Long Cheeseburger",
+        "price": 50.74,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Bacon Cheeseburger",
+        "price": 30.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Bacon Double Cheeseburger",
+        "price": 57.89,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Crispy Chicken Sandwich",
+        "price": 50.48,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Spicy Crispy Chicken Sandwich",
+        "price": 47.0,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Original Chicken Sandwich",
+        "price": 34.25,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Bacon & Cheese Crispy Chicken Sandwich",
+        "price": 43.17,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BBQ Bacon Crispy Chicken Sandwich",
+        "price": 38.84,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Crispy Chicken Jr.",
+        "price": 58.88,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Spicy Crispy Chicken Jr.",
+        "price": 39.05,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Nuggets- 4pc",
+        "price": 50.5,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Nuggets- 6pc",
+        "price": 31.34,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Nuggets- 10pc",
+        "price": 49.86,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Nuggets- 20pc",
+        "price": 59.01,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 4pc",
+        "price": 32.9,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 6pc",
+        "price": 57.68,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 10 pc",
+        "price": 52.95,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Spicy Chicken Nuggets- 20 pc",
+        "price": 41.89,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Fries \u2013 9 pc.",
+        "price": 50.41,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Crispy Taco",
+        "price": 35.97,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BIG FISH Sandwich",
+        "price": 30.88,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Garden Chicken Salad with Crispy Chicken \u2013 no dressing",
+        "price": 53.55,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Club Salad with Crispy Chicken \u2013 no dressing",
+        "price": 46.0,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Garden Side Salad \u2013 w/o dressing",
+        "price": 48.29,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Ken\u2019s Ranch Dressing",
+        "price": 57.99,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Ken\u2019s Golden Italian Dressing",
+        "price": 58.55,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Ken\u2019s Lite Honey Balsamic Vinaigrette",
+        "price": 32.54,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Buttery Garlic Croutons- Packet",
+        "price": 57.36,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Onion Rings \u2013 value",
+        "price": 50.53,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Onion Rings \u2013 small",
+        "price": 38.71,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Onion Rings \u2013 medium",
+        "price": 47.99,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Onion Rings \u2013 large",
+        "price": 39.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "French Fries \u2013 value (unsalted)",
+        "price": 32.81,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "French Fries \u2013 small",
+        "price": 42.89,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "French Fries \u2013 medium",
+        "price": 33.67,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "French Fries \u2013 large",
+        "price": 43.19,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Kids Oatmeal",
+        "price": 55.37,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Nuggets- 4pc",
+        "price": 44.23,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chicken Nuggets- 6pc",
+        "price": 56.43,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hamburger",
+        "price": 48.0,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Cheeseburger",
+        "price": 38.26,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Mott\u2019s\u00ae Natural Applesauce",
+        "price": 51.81,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Fat FREE Milk (8 fl oz)",
+        "price": 32.39,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "1% Low Fat Chocolate Milk (8 fl oz)",
+        "price": 47.15,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Capri Sun\u00ae 100% Apple Juice (6 fl oz)",
+        "price": 56.52,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "PB&J Jamwich",
+        "price": 45.81,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Soft Serve Cone",
+        "price": 56.93,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Dutch Apple Pie",
+        "price": 31.48,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "HERSHEY\u00ae\u2019S Sundae Pie",
+        "price": 56.11,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pie made with TWIX\u00ae",
+        "price": 45.18,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "OREO\u00ae Cookie Cheesecake",
+        "price": 37.97,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Soft Serve Cone",
+        "price": 41.08,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Soft Serve Cup",
+        "price": 37.78,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "HERSHEY\u00ae\u2019s Chocolate Sundae",
+        "price": 36.83,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Caramel Sundae",
+        "price": 51.66,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chocolate Chip Cookies (each)",
+        "price": 59.55,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Egg & Cheese",
+        "price": 44.14,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Sausage, Egg & Cheese",
+        "price": 46.6,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Ham, Egg & Cheese",
+        "price": 39.18,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "CROISSAN\u2019WICH\u00ae Bacon, Egg & Cheese",
+        "price": 43.55,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Fully Loaded CROISSAN\u2019WICH\u00ae",
+        "price": 45.53,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double CROISSAN\u2019WICH\u00ae with Sausage & Bacon",
+        "price": 50.77,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double CROISSAN\u2019WICH\u00ae with Sausage",
+        "price": 35.87,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Double CROISSAN\u2019WICH\u00ae with Ham & Sausage",
+        "price": 39.77,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Fully Loaded Biscuit",
+        "price": 36.94,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Ham, Egg, & Cheese Biscuit",
+        "price": 45.0,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Sausage, Egg, & Cheese Biscuit",
+        "price": 52.2,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Bacon, Egg & Cheese Biscuit",
+        "price": 55.24,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Sausage Biscuit",
+        "price": 55.52,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Breakfast Burrito Jr.",
+        "price": 50.7,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "EGG-NORMOUS BURRITO\u03a1",
+        "price": 55.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u2122 Ultimate Breakfast Platter",
+        "price": 45.25,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "NY Ultimate Platter (Regional menu item)",
+        "price": 42.64,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pancake and Sausage platter",
+        "price": 40.68,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hash Browns \u2013 small",
+        "price": 56.6,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hash Browns \u2013 medium",
+        "price": 59.3,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hash Browns \u2013 large",
+        "price": 37.66,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "French Toast Sticks (3 piece)",
+        "price": 37.09,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "French Toast Sticks (5 piece)",
+        "price": 41.65,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "American Cheese (slice)",
+        "price": 47.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Ketchup (Packet)",
+        "price": 44.96,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Mayonnaise (Packet)",
+        "price": 59.52,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Strawberry or Grape Jam (packet)",
+        "price": 48.87,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Breakfast Syrup (1 oz)",
+        "price": 47.62,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Barbecue Dipping Sauce (1 oz)",
+        "price": 58.11,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Ranch Dipping Sauce (1 oz)",
+        "price": 33.71,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Buffalo Dipping Sauce (1 oz)",
+        "price": 49.0,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Zesty Onion Ring Dipping Sauce (1 oz)",
+        "price": 30.3,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Honey Mustard Dipping Sauce (1oz)",
+        "price": 48.25,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Fat FREE Milk (8 fl oz)",
+        "price": 40.43,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "1% Low Fat Chocolate Milk (8 fl oz)",
+        "price": 37.44,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Smoothie: Strawberry Banana 16 fl oz",
+        "price": 53.0,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Oreo\u00ae Shake",
+        "price": 54.79,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Chocolate Oreo\u00ae Shake",
+        "price": 42.83,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Vanilla Milk Shake",
+        "price": 55.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "HERSHEY\u00ae\u2019S Chocolate Milk Shake",
+        "price": 56.01,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Strawberry Milk Shake",
+        "price": 31.42,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Coca Cola classic\u00ae\u2021",
+        "price": 52.19,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 31.58,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 56.38,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 47.65,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 49.65,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Diet Coke\u00ae\u2021",
+        "price": 42.13,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 33.23,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 59.23,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 43.42,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 40.93,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Sprite\u00ae\u2021",
+        "price": 41.49,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 51.81,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 40.71,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 46.95,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 37.81,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Dr. Pepper\u00ae\u2021",
+        "price": 31.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 39.77,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 55.16,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 30.33,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 57.03,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Barq\u2019s\u00ae Root Beer\u2021",
+        "price": 57.74,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 31.19,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 42.04,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 47.81,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 32.04,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Cherry Coke\u00ae\u2021",
+        "price": 33.16,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 42.93,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 46.65,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 59.34,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 32.42,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Fanta\u00ae Orange\u2021",
+        "price": 49.86,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 45.21,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 39.36,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 38.91,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 39.29,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hi-C\u00ae Fruit Punch\u2021",
+        "price": 57.01,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 31.16,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 57.91,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 40.44,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 32.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "MINUTE MAID\u00ae Light Lemonade",
+        "price": 49.1,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "16 fl oz",
+        "price": 35.63,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 54.52,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 41.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "38 fl oz",
+        "price": 32.38,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Sweet Tea",
+        "price": 55.51,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 41.49,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 31.5,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "40 fl oz",
+        "price": 47.46,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Unsweetened Tea",
+        "price": 49.42,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "20 fl oz",
+        "price": 56.6,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "29 fl oz",
+        "price": 37.24,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "40 fl oz",
+        "price": 44.78,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Capri Sun\u00ae 100% Apple Juice",
+        "price": 58.63,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Minute Maid\u00ae Orange Juice",
+        "price": 35.59,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Frozen Coke\u00ae \u2013 16 oz",
+        "price": 48.52,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Coffee- 12 fl oz",
+        "price": 32.75,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Coffee- 16 fl oz",
+        "price": 33.79,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Coffee- 20 fl oz",
+        "price": 42.31,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Decaf Coffee- 12 fl oz",
+        "price": 53.96,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Decaf Coffee- 16 fl oz",
+        "price": 47.84,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Decaf Coffee- 20 fl oz",
+        "price": 46.85,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 12 fl oz",
+        "price": 45.69,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 16 fl oz",
+        "price": 50.94,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Vanilla Coffee- 20 fl oz",
+        "price": 48.49,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Mocha Coffee- 12 fl oz",
+        "price": 30.2,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Mocha Coffee- 16 fl oz",
+        "price": 56.57,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Iced Mocha Coffee- 20 fl oz",
+        "price": 42.93,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Mocha Frappe- 12 fl oz",
+        "price": 32.66,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Mocha Frappe- 16 fl oz",
+        "price": 31.28,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Mocha Frappe- 20 fl oz",
+        "price": 48.98,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Caramel Frappe- 12 fl oz",
+        "price": 42.77,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Caramel Frappe- 16 fl oz",
+        "price": 56.22,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "BK\u00ae Caf\u00e9 Caramel Frappe- 20 fl oz",
+        "price": 36.23,
+        "description": [
+            "description"
+        ]
+    }
+]

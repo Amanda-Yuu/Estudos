@@ -1,0 +1,520 @@
+[
+    {
+        "item": "Detroit Double Cheesy Pizza Slice",
+        "price": 57.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Detroit Double Pepperoni Pizza Slice",
+        "price": 44.86,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Detroit Meaty Pizza Slice",
+        "price": 54.53,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Detroit Supremo Pizza Slice",
+        "price": 36.76,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Backyard BBQ Chicken Personal Pan",
+        "price": 37.5,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Backyard BBQ Chicken Medium",
+        "price": 38.87,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Backyard BBQ Chicken Large",
+        "price": 38.78,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Beyond Meat\u00ae Pepperoni Medium",
+        "price": 39.31,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Beyond Meat\u00ae Pepperoni Large",
+        "price": 39.11,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Buffalo Chicken Personal Pan",
+        "price": 46.93,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Buffalo Chicken Medium",
+        "price": 34.27,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Buffalo Chicken Large",
+        "price": 30.27,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Cheese Personal Pan",
+        "price": 42.66,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Cheese Medium",
+        "price": 55.95,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Cheese Large",
+        "price": 36.83,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Chicken Bacon Parmesan Personal Pan",
+        "price": 35.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Chicken Bacon Parmesan Medium",
+        "price": 38.91,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Chicken Bacon Parmesan Large",
+        "price": 57.25,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Hawaiian Chicken Personal Pan",
+        "price": 37.76,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Hawaiian Chicken Medium",
+        "price": 37.43,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Hawaiian Chicken Large",
+        "price": 40.86,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Meat Lover\u2019s\u00ae Personal Pan",
+        "price": 34.02,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Meat Lover\u2019s\u00ae Medium",
+        "price": 53.44,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Meat Lover\u2019s\u00ae Large",
+        "price": 50.11,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Pepperoni Personal Pan",
+        "price": 40.7,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Pepperoni Medium",
+        "price": 31.21,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Pepperoni Large",
+        "price": 40.77,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Personal Pan",
+        "price": 49.27,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Medium",
+        "price": 33.46,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Pepperoni Lover\u2019s\u00ae Large",
+        "price": 52.92,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Supreme Personal Pan",
+        "price": 32.7,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Supreme Medium",
+        "price": 46.9,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Supreme Large",
+        "price": 30.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Personal Pan",
+        "price": 58.71,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Medium",
+        "price": 40.3,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Ultimate Cheese Lover\u2019s\u00ae Large",
+        "price": 34.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Veggie Lover\u2019s\u00ae Personal Pan",
+        "price": 56.45,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Veggie Lover\u2019s\u00ae Medium",
+        "price": 41.36,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Pan Pizza Slices Veggie Lover\u2019s\u00ae Large",
+        "price": 33.08,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Backyard BBQ Chicken Small",
+        "price": 39.45,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Backyard BBQ Chicken Medium",
+        "price": 40.07,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Backyard BBQ Chicken Large",
+        "price": 48.89,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Beyond Meat\u00ae Pepperoni Medium",
+        "price": 45.35,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Beyond Meat\u00ae Pepperoni Large",
+        "price": 32.67,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices  Buffalo Chicken Small",
+        "price": 55.86,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices  Buffalo Chicken Medium",
+        "price": 30.96,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices  Buffalo Chicken Large",
+        "price": 40.59,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Cheese Small",
+        "price": 42.02,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Cheese Medium",
+        "price": 44.47,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Cheese Large",
+        "price": 49.49,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Chicken Bacon Parmesan Small",
+        "price": 55.65,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Chicken Bacon Parmesan Medium",
+        "price": 51.18,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Chicken Bacon Parmesan Large",
+        "price": 52.22,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Hawaiian Chicken Small",
+        "price": 38.78,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Hawaiian Chicken Medium",
+        "price": 57.11,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Hawaiian Chicken Large",
+        "price": 41.3,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Meat Lover\u2019s\u00ae Small",
+        "price": 47.88,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Meat Lover\u2019s\u00ae Medium",
+        "price": 32.2,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Meat Lover\u2019s\u00ae Large",
+        "price": 59.8,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Pepperoni Small",
+        "price": 35.13,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Pepperoni Medium",
+        "price": 41.54,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Pepperoni Large",
+        "price": 41.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Small",
+        "price": 46.11,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Medium",
+        "price": 59.72,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Pepperoni Lover\u2019s\u00ae Large",
+        "price": 45.19,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Supreme Small",
+        "price": 39.86,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Supreme Medium",
+        "price": 41.64,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Supreme Large",
+        "price": 32.6,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Small",
+        "price": 33.58,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Medium",
+        "price": 39.43,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Ultimate Cheese Lover\u2019s\u00ae Large",
+        "price": 58.28,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Veggie Lover\u2019s\u00ae Small",
+        "price": 51.06,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Veggie Lover\u2019s\u00ae Medium",
+        "price": 43.03,
+        "description": [
+            "description"
+        ]
+    },
+    {
+        "item": "Hand Tossed Slices Veggie Lover\u2019s\u00ae Large",
+        "price": 50.63,
+        "description": [
+            "description"
+        ]
+    }
+]
